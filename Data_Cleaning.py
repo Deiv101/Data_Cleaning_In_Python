@@ -70,7 +70,6 @@ for col in df.columns:
 # - Also works best when there are many features in the dataset.
 
 
-
 for col in df.columns:
     missing = df[col].isnull()
     num_missing = np.sum(missing)
