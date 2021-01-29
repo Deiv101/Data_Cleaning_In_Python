@@ -18,7 +18,6 @@ matplotlib.rcParams['figure.figsize'] = (12,8)
 
 pd.options.mode.chained_assignment = None
 
-
 # - **Read the Data**
 
 # Read the dataset
