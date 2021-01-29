@@ -30,9 +30,6 @@ df.head()
 
 # - **How many Rows and Columns?**
 
-# In[26]:
-
-
 # Shape
 print("There are \n", df.shape[0], "\nentries/rows and\n", 
       df.shape[1], "\nfeatures/columns in this daataset.")
