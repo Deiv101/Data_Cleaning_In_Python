@@ -40,9 +40,6 @@ df.dtypes
 
 # - **Which features/columns are numerical?**
 
-# In[44]:
-
-
 # Numerical Columns
 df_numeric = df.select_dtypes(include=[np.number])
 df_numeric.columns.values
