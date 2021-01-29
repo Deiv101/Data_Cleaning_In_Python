@@ -38,7 +38,6 @@ print("There are \n", df.shape[0], "\nentries/rows and\n",
 # Data Types
 df.dtypes
 
-
 # - **Which features/columns are numerical?**
 
 # In[44]:
