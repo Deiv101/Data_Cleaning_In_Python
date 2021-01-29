@@ -1,9 +1,5 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# ## Project Goal
+### Project Goal
 # > The goal of this project is to **Clean the dataset** to predict housing price fluctuations in New York City.
-# 
 # - **First, let's import relevant libraries.**
 
 # In[11]:
