@@ -60,8 +60,6 @@ sns.heatmap(df[cols].isnull(), cmap=sns.color_palette(colors))
 # > **Technique #2**: **Missing Data Percentage List** 
 # - Works best when there are many features in the dataset.
 
-# In[71]:
-
 
 for col in df.columns:
     pct_missing = np.mean(df[col].isnull())
