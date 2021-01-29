@@ -26,7 +26,6 @@ df = pd.read_csv('housing.csv')
 # Check the first 5 entries
 df.head()
 
-
 # - **How many Rows and Columns?**
 
 # Shape
