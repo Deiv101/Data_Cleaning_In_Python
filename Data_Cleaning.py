@@ -69,7 +69,6 @@ for col in df.columns:
 # > **Technique #3**: **Missing Data Histogram** 
 # - Also works best when there are many features in the dataset.
 
-# In[72]:
 
 
 for col in df.columns:
