@@ -28,9 +28,6 @@ pd.options.mode.chained_assignment = None
 
 # - **Read the Data**
 
-# In[14]:
-
-
 # Read the dataset
 df = pd.read_csv('housing.csv')
 
