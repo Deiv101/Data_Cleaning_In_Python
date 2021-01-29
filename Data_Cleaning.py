@@ -84,7 +84,7 @@ df['num_missing'] = df[ismissing_cols].sum(axis=1)
 df['num_missing'].value_counts().reset_index().sort_values(by='index').plot.bar(x='index', y='num_missing')
 
 
-# In[ ]:
+
 
 
 
