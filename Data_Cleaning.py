@@ -36,9 +36,6 @@ print("There are \n", df.shape[0], "\nentries/rows and\n",
 
 # - **What are the datatypes pf each feature in this dataset?**
 
-# In[33]:
-
-
 # Data Types
 df.dtypes
 
