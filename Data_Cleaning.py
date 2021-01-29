@@ -51,9 +51,6 @@ num_cols
 # > **Technique #1**: **Missing Data Heatmap** 
 # - Works best when there are fewer features
 
-# In[53]:
-
-
 cols = df.columns[:] # All Columns
 colors = ['#000099', '#ffff00'] # yellow indicates missing; blue indicates not missing
 sns.heatmap(df[cols].isnull(), cmap=sns.color_palette(colors))
