@@ -32,7 +32,6 @@ df.head()
 print("There are \n", df.shape[0], "\nentries/rows and\n", 
       df.shape[1], "\nfeatures/columns in this daataset.")
 
-
 # - **What are the datatypes pf each feature in this dataset?**
 
 # Data Types
