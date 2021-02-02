@@ -1,6 +1,6 @@
 ### Project Goal
 # > The goal of this project is to **Clean the dataset** to predict housing price fluctuations in New York City.
-# - **First, let's import relevant libraries.**
+# - First, let's import relevant libraries.
 
 # Import libraries
 import pandas as pd
